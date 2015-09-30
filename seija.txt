@@ -1,1 +1,6 @@
 Seija Karttunen
+<<<<<<< HEAD
+=======
+Tämä sisältää muutoksia ensimmäisen kommitin jälkeen.
+Tämän tekstin lisäsi naapuri.
+>>>>>>> fa88f43395e0e85718c09342fbf525e01f7b7c1b
