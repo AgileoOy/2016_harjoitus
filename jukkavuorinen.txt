@@ -8,4 +8,4 @@ Ja Eclipsestä versio 4...
 
 Ja eclipsestä toinen muutos, koska en ymmärrä miten tämä toimii, vaan niin oli githubiin päätynyt edellinen muokkaus.
 
-Alkaahan tämä eclipsen GITkin selkiytymään. TAGit tosiaa on mulle epäselvä asia.
+Alkaahan tämä eclipsen GITkin selkiytymään. TAGit tosiaa on mulle epäselvä asia. Vieläkin.
