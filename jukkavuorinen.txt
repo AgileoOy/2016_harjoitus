@@ -1,1 +1,3 @@
 Tämä on Jukan tekemä tiedosto, GITin testaamiseen.
+
+versio 2 muokkaus.
