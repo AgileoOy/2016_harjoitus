@@ -8,4 +8,4 @@ Ja Eclipsestä versio 4...
 
 Ja eclipsestä toinen muutos, koska en ymmärrä miten tämä toimii, vaan niin oli githubiin päätynyt edellinen muokkaus.
 
-Alkaahan ätmä eclipsen GITkin selkiytymään.
+Alkaahan tämä eclipsen GITkin selkiytymään.
