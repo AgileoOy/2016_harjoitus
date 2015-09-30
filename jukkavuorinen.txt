@@ -3,3 +3,5 @@ Tämä on Jukan tekemä tiedosto, GITin testaamiseen.
 versio 2 muokkaus.
 
 Ja tässä on versio 3 muokatusta tiedostosta.
+
+Ja Eclipsestä versio 4...
